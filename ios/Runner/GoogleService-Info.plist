@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>193113038607-mnqm363qn9bh9reaao5ajli2fph49kke.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.193113038607-mnqm363qn9bh9reaao5ajli2fph49kke</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyMoQEi3-_xSGxyqv8jL10sFxb4P7Z5BU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>193113038607</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ecjourney</string>
+	<key>PROJECT_ID</key>
+	<string>ecjourney-f154f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecjourney-f154f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:193113038607:ios:8264f04a75cf94ee02687a</string>
+</dict>
+</plist>

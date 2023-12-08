@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "193113038607",
+    "project_id": "ecjourney-f154f",
+    "storage_bucket": "ecjourney-f154f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193113038607:android:9716781544f5438502687a",
+        "android_client_info": {
+          "package_name": "com.example.ecjourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193113038607-bnuq41nbr3bnpsru4g3nai9tlfea1948.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPD9gHSwT6_mQ29-6NAKaYLBfvkq_PIQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193113038607-bnuq41nbr3bnpsru4g3nai9tlfea1948.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193113038607-mnqm363qn9bh9reaao5ajli2fph49kke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecjourney"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
